@@ -2,6 +2,8 @@
 
 Simulation code for the paper "Evolutionary (in)stability of selfish learning in repeated games" by Alex McAvoy, Julian Kates-Harbeck, Krishnendu Chatterjee, and Christian Hilbe. The details of these simulations may be found in the Methods section.
 
+## Instructions
+
 To simulate, set parameters in `simulate.m` as desired and run
 	
 	>> simulate
@@ -37,7 +39,31 @@ from the MATLAB command line. By default, the parameters are
 
 ## Games
 
+The following values of `[R, S, T, P]` are example values for `game_parameters`.
+
 *Prisoner's Dilemma*
 
-### Contact information
+`[1, -1, 2, 0]` (variant with *2P<S+T<2R*)
+
+`[3, -1, 9, 0]` (variant with *S+T>2R*)
+
+`[4, 0, 5, 3]` (variant with *S+T<2P*)
+
+*Snowdrift Game*
+
+`[3, 0, 4, -1]` (variant with *S+T<2R*)
+
+`[3, 0, 9, -1]` (variant with *S+T>2R*)
+
+*Stag Hunt Game*
+
+`[5, 1, 4, 2]` (variant with *S+T>2P*)
+
+`[4, 0, 3, 2]` (variant with *S+T<2P*)
+
+*Battle of the Sexes Game*
+
+`[1, 3, 2, 0]`
+
+## Contact information
 Please direct questions to Alex McAvoy (`alexmcavoy@gmail.com`) or Christian Hilbe (`hilbe@evolbio.mpg.de`).
