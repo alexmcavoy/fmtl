@@ -1,6 +1,6 @@
 # fmtl (fairness-mediated team learning)
 
-Simulation code for the paper "Evolutionary (in)stability of selfish learning in repeated games" by Alex McAvoy, Julian Kates-Harbeck, Krishnendu Chatterjee, and Christian Hilbe. The details of these simulations may be found in the Methods section of the paper, available at `http://arxiv.org/abs/2105.06199`.
+Simulation code for the paper "Evolutionary (in)stability of selfish learning in repeated games" by Alex McAvoy, Julian Kates-Harbeck, Krishnendu Chatterjee, and Christian Hilbe. The details of these simulations may be found in the Methods section of the paper, available at [http://arxiv.org/abs/2105.06199](http://arxiv.org/abs/2105.06199).
 
 ## Instructions
 
