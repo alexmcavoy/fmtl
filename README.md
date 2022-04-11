@@ -61,7 +61,7 @@ The following values of `[R, S, T, P]` are example values for `game_parameters`.
 
 `[4, 0, 3, 2]` (variant with *S+T<2P*)
 
-*Battle of the Sexes Game*
+*Hero Game*
 
 `[1, 3, 2, 0]`
 
